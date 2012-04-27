@@ -1,0 +1,7 @@
+*.o
+*.hi
+*.hp
+*.aux
+voronoi
+voronoi.ps
+*.prof
