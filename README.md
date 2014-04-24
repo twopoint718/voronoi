@@ -1,5 +1,10 @@
 Voronoi Diagrams
 ================
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/twopoint718/voronoi/master/voronoi1.png" />
+</p>
+
 Quoth the Wikipedia:
 > In mathematics, a Voronoi diagram is a special kind of decomposition of a
 > given space, e.g., a metric space, determined by distances to a specified
